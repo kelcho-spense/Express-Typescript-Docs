@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="starter.md">
+
+    <toc-element topic="starter.md"/>
+    <toc-element topic="Getting-Started.md"/>
+    <toc-element topic="App-Object-Express-Object.md"/>
+    <toc-element topic="Request-Object.md"/>
+    <toc-element topic="Response-Object.md"/>
+    <toc-element topic="Routing-Express-Router.md"/>
+    <toc-element topic="Serving-static-files-Uploading-files.md"/>
+    <toc-element topic="Middlewares.md"/>
+    <toc-element topic="Schema-Validation-Zod.md"/>
+    <toc-element topic="JWT-Authentication-Authorization.md"/>
+    <toc-element topic="Developing-An-API.md"/>
+    <toc-element topic="Sending-Emails-Programmatically.md"/>
+    <toc-element topic="Managing-Cron-Jobs-and-Background-Services.md"/>
+    <toc-element topic="EJS-Templating-Engine.md"/>
+</instance-profile>
